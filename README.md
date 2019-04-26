@@ -1,5 +1,4 @@
 # The Algorithms - Python <!-- [![Build Status](https://travis-ci.org/TheAlgorithms/Python.svg)](https://travis-ci.org/TheAlgorithms/Python) -->
-#### Python3
 ### All algorithms implemented in Python (for education)
 
 # 参加ccf ccsp前刷算法
